@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+.login-page{
+    width: 368px;
+    height: 400px;
+    background-color: rgb(228, 220, 212);
+    margin: 50px auto;
+    text-align: center;
+}
+.login-page h2{
+    padding-top: 20px;
+    width: 368px;
+    height: 70px;
+    background-color: bisque;
+}
+.form{
+    padding-top: 20px;
+}
+button{
+    width: 90px;
+    height: 40px;
+    background-color: rgb(245, 164, 66);
+}
